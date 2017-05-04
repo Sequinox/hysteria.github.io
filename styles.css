@@ -12,11 +12,10 @@ h1 {
   width: 100%;
 }
 
-.wrapper {
+#container {
+  display: table-cell;
+  vertical-align: middle;
+  height: 780px;
+  width: 580px;
   text-align: center;
-}
-
-.button {
-  position: absolute;
-  top: 50%;
 }
