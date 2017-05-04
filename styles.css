@@ -13,9 +13,10 @@ h1 {
 }
 
 #container {
-  display: table-cell;
-  vertical-align: middle;
-  height: 780px;
-  width: 580px;
+  left: 0;
+  line-height: 200px;
+  margin-top: 450px;
   text-align: center;
+  top: 50%;
+  width: 78%;
 }
