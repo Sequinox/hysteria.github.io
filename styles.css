@@ -12,10 +12,11 @@ h1 {
   width: 100%;
 }
 
-.main {
-  padding: 2em 0;
+.wrapper {
+  text-align: center;
 }
 
 .button {
-  margin: 0 auto;
+  position: absolute;
+  top: 50%;
 }
