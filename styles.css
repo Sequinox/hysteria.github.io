@@ -21,3 +21,9 @@ h2 {
   top: 50%;
   width: 100%;
 }
+
+#pagetwo {
+  width: 1920;
+  height: 1080;
+  margin-top: -100px;
+}
