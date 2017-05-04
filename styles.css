@@ -12,6 +12,15 @@ h1 {
   width: 100%;
 }
 
+h2 {
+  left: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 190%;
+  width: 100%;
+}
+
 a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
@@ -24,6 +33,6 @@ a.button {
 .second {
   margin-top: 1000px;
   width: 129%;
-  height: 1000px;
+  height: 969px;
   background: rgba(255, 0, 0, 0.41);
 }
