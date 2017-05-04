@@ -2,10 +2,6 @@
   font-family: "Courier New", Courier, monospace;
 }
 
-body {
-  overflow: hidden;
-}
-
 h1 {
   left: 0;
   line-height: 200px;
