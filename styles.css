@@ -19,3 +19,7 @@ h2 {
   margin-top: -280px;
   border: 100px solid rgb(55, 234, 136);
 }
+
+.page {
+  border: 100px solid rgb(10, 200, 100);
+}
