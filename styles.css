@@ -14,5 +14,6 @@ h2 {
 }
 
 .titlebox {
-  border: 1px;
+  margin-top: -280px;
+  border: 100px solid rgb(55, 234, 136);
 }
