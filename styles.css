@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 * {
   font-family: "Ubuntu";
+
+}
+
+html {
+  background-color: #e6f5eb
 }
 
 h1 {
@@ -18,8 +23,4 @@ h2 {
 .titlebox {
   margin-top: -280px;
   border: 100px solid rgb(55, 234, 136);
-}
-
-.page {
-  border: 100px solid rgb(10, 200, 100);
 }
