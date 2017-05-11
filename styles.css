@@ -19,6 +19,10 @@ h2 {
  text-align: center;
 }
 
+li {
+  margin: 15px;
+}
+
 .titlebox {
   margin-top: -280px;
   border: 100px solid rgb(55, 234, 136);
