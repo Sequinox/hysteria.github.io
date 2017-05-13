@@ -27,3 +27,11 @@ li {
   margin-top: -280px;
   border: 100px solid rgb(55, 234, 136);
 }
+
+.widget {
+  position: absolute;
+  right: 0px;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
