@@ -29,7 +29,7 @@ li {
 }
 
 .widget {
-  position: fixed;
+  position: absolute;
   right: 0px;
   width: 400px;
   padding: 10px;
