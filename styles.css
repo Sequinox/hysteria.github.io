@@ -33,10 +33,3 @@ li {
   position: fixed;
   width: 1920px;
 }
-
-.widget {
-  position: absolute;
-  right: 0px;
-  width: 400px;
-  padding: 10px;
-}
