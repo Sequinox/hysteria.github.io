@@ -28,6 +28,10 @@ li {
   border: 100px solid rgb(55, 234, 136);
 }
 
+.pagetop {
+  position: fixed;
+}
+
 .widget {
   position: absolute;
   right: 0px;
